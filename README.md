@@ -1,16 +1,39 @@
-# simple_gallery
+# **Simple Gallery App**
 
-A new Flutter project.
+A Flutter application that displays a grid-style image gallery.
+This project teaches beginners how to work with grids, asset images, layout spacing, and responsive design while keeping the code simple and approachable.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## **How to Download and Use**
 
-A few resources to get you started if this is your first Flutter project:
+### **1. Clone this repository**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/TheFlutterSensei/Simple-Gallery-App.git
+cd Simple-Gallery-App
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### **2. Install dependencies**
+
+```bash
+flutter pub get
+```
+
+### **3. Run the app**
+
+```bash
+flutter run
+```
+
+---
+
+## **Where to Learn?**
+
+### **Full Learning Path & Tutorials**
+
+[https://fluttersensei.com](https://fluttersensei.com)
+
+### **Complete Step-By-Step Class on Skillshare**
+
+[Coming Soon](https://fluttersensei.com)
