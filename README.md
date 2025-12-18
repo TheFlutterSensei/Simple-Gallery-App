@@ -33,7 +33,3 @@ flutter run
 ### **Full Learning Path & Tutorials**
 
 [https://fluttersensei.com](https://fluttersensei.com)
-
-### **Complete Step-By-Step Class on Skillshare**
-
-[Coming Soon](https://fluttersensei.com)
